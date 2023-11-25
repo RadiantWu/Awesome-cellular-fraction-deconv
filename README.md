@@ -6,4 +6,4 @@
 ## [scpDeconv](https://www.biorxiv.org/content/10.1101/2022.11.25.517895v1)
 > Deep Domain Adversarial Neural Network for the Deconvolution of Cell Type Mixtures in Tissue Proteome Profiling
 ## [Deconvoluting bulk RNA-seq data to measure cell populations-Harvard-ppt](https://projects.iq.harvard.edu/files/chanbioinformatics/files/cell_type_deconvolution.pdf)
->
+## [scMD: cell type deconvolution using single-cell DNA methylation references](https://www.biorxiv.org/content/10.1101/2023.08.03.551733v1)
